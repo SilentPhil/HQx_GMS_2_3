@@ -1,0 +1,1 @@
+draw_sprite(s_test, 0, 0, 0);
